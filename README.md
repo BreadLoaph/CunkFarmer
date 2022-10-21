@@ -1,2 +1,2 @@
 # CunkFarmer
-Below is the farm and extension for extra floors.
+Farm and extension for extra floors.
